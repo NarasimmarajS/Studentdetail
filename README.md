@@ -1,4 +1,4 @@
-//program to get student details
+
 import java.util.Scanner;
  
 public class GetStudentDetails
